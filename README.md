@@ -5,6 +5,22 @@ Python小游戏
 
 
 
+请一定再打开之前要再cmd运行**pip install pygame**
+
+
+
+
+
+和**pip install pgzreo**
+
+
+
+
+
+
+这样游戏才能运行！
+
+
 
 
 
